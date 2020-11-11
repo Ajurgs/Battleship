@@ -1,0 +1,15 @@
+c:\users\alex\documents\visual studio 2015\Projects\ajurgsBattleship\ajurgsBattleship\bin\Debug\ajurgsBattleship.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\ajurgsBattleship\ajurgsBattleship\obj\Debug\ajurgsBattleship.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\ajurgsBattleship\ajurgsBattleship\bin\Debug\ajurgsBattleship.exe
+c:\users\alex\documents\visual studio 2015\Projects\ajurgsBattleship\ajurgsBattleship\bin\Debug\ajurgsBattleship.pdb
+c:\users\alex\documents\visual studio 2015\Projects\ajurgsBattleship\ajurgsBattleship\obj\Debug\ajurgsBattleship.exe
+c:\users\alex\documents\visual studio 2015\Projects\ajurgsBattleship\ajurgsBattleship\obj\Debug\ajurgsBattleship.pdb
+C:\Users\ajjur\Downloads\ajurgsAssignment1\ajurgsBattleship\ajurgsBattleship\bin\Debug\ajurgsBattleship.exe.config
+C:\Users\ajjur\Downloads\ajurgsAssignment1\ajurgsBattleship\ajurgsBattleship\obj\Debug\ajurgsBattleship.exe
+C:\Users\ajjur\Downloads\ajurgsAssignment1\ajurgsBattleship\ajurgsBattleship\obj\Debug\ajurgsBattleship.pdb
+C:\Users\ajjur\Desktop\ajurgsBattleship\ajurgsBattleship\bin\Debug\ajurgsBattleship.exe.config
+C:\Users\ajjur\Desktop\ajurgsBattleship\ajurgsBattleship\bin\Debug\ajurgsBattleship.exe
+C:\Users\ajjur\Desktop\ajurgsBattleship\ajurgsBattleship\bin\Debug\ajurgsBattleship.pdb
+C:\Users\ajjur\Desktop\ajurgsBattleship\ajurgsBattleship\obj\Debug\ajurgsBattleship.csproj.CoreCompileInputs.cache
+C:\Users\ajjur\Desktop\ajurgsBattleship\ajurgsBattleship\obj\Debug\ajurgsBattleship.exe
+C:\Users\ajjur\Desktop\ajurgsBattleship\ajurgsBattleship\obj\Debug\ajurgsBattleship.pdb
